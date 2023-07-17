@@ -1,3 +1,3 @@
 # Calculator
 added indes.html
-Dark Calculator created by HTML, CSS and JS.
+Dark Calculator using  HTML, CSS and JS.
